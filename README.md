@@ -1,3 +1,5 @@
+**This version is based on DXP 7.3**
+
 # Mondriaan generator
 
 This will generate random mondriaan.
